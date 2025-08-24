@@ -32,7 +32,7 @@ https://github.com/angel1234-ship-it/Forestation-Trends/blob/main/Top%20Forestat
 
 ---
 ![EV Dashboard](
-https://github.com/angel1234-ship-it/Forestation-Trends/blob/main/Top%20Forestation%20Countries.png
+https://github.com/angel1234-ship-it/Forestation-Trends/blob/main/Top%20Deforestation%20Countries.png
 )
 ---
 
