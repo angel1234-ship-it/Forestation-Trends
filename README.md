@@ -30,6 +30,13 @@ https://github.com/angel1234-ship-it/Forestation-Trends/blob/main/Top%20Forestat
 )
 ---
 
+---
+![EV Dashboard](
+https://github.com/angel1234-ship-it/Forestation-Trends/blob/main/Top%20Forestation%20Countries.png
+)
+---
+
+
 ## 🛠️ Technologies Used
 - **Google Sheets** – Used to organize, clean, and analyze the raw dataset  
 - **Tableau Public** – Used to create interactive visualizations and dashboards
