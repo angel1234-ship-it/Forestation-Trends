@@ -21,7 +21,7 @@ The dataset used for this project was sourced from **Kaggle**, and includes fore
 
 ---
 ![EV Dashboard](
-https://github.com/angel1234-ship-it/Data-Analytics/blob/main/India%E2%80%99s%20Electric%20Vehicle%20Market_%20A%20Data-Driven%20Overview%20(2014%E2%80%932023.png
+https://github.com/angel1234-ship-it/Forestation-Trends/blob/main/Screenshot%202025-08-24%20115513.png
 )
 ---
 
