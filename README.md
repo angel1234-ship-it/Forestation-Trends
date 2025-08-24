@@ -26,7 +26,7 @@ https://github.com/angel1234-ship-it/Forestation-Trends/blob/main/Screenshot%202
 ---
 ---
 ![EV Dashboard](
-https://github.com/angel1234-ship-it/Forestation-Trends/blob/main/Screenshot%202025-08-24%20115513.png
+https://github.com/angel1234-ship-it/Forestation-Trends/blob/main/Top%20Forestation%20Countries.png
 )
 ---
 
