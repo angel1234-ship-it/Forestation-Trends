@@ -17,8 +17,13 @@ The dataset used for this project was sourced from **Kaggle**, and includes fore
   > *Sources: [World Bank](https://data.worldbank.org/indicator/AG.LND.FRST.K2?locations=EG), [Index Mundi](https://www.indexmundi.com/facts/egypt/indicator/AG.LND.FRST.ZS)*
 - **Guernsey** recorded the **highest reforestation trend**, with an **86.20% increase** in forest cover.
 ---
-## 📈 Visualization
+## 📈 Visualization Snapshots
 
+---
+![EV Dashboard](
+https://github.com/angel1234-ship-it/Forestation-Trends/blob/main/Screenshot%202025-08-24%20115513.png
+)
+---
 ---
 ![EV Dashboard](
 https://github.com/angel1234-ship-it/Forestation-Trends/blob/main/Screenshot%202025-08-24%20115513.png
